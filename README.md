@@ -24,7 +24,7 @@ Deployed Broken and Working Pods <br />
 <img src="https://i.postimg.cc/wjNbfN8R/2.jpg"/>
 <br />
 <br />
-Inspected Broken Container with kubectl exec <br/>
+Inspected Container with kubectl exec <br/>
 <img src="https://i.postimg.cc/FsdPzSKC/3.jpg"/>
 <br />
 <br />
